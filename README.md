@@ -4,7 +4,7 @@ A dashboard that answers one question at a glance: **am I currently in danger of
 
 Built for the Tradescape full-stack assignment.
 
-- **Live demo:** _(add your deployment URL here)_
+- **Live demo:** _(https://trader-risk-dashboard-delta.vercel.app/)_
 - **Stack:** React 19 + TypeScript + Vite, plain CSS, Vitest
 
 ---
